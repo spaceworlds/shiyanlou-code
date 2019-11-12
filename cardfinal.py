@@ -54,7 +54,7 @@ while 1:
             print('________________')
         else:
             for key,value in card_bag.items():
-                print('{}'.format(key,value))
+                print('{} - 数量:{}'.format(key,value))
             print('________________')
 
 
